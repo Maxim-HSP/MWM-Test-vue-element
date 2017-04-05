@@ -1,7 +1,5 @@
-# vue_app1
-
-> no
-
+# MWM_APP
+perform startApp.bat to run this project
 ## Build Setup
 
 ``` bash

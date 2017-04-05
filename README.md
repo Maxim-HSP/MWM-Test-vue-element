@@ -1,6 +1,8 @@
 # MWM_APP
+Maoxxx Web Management System
+
 perform startApp.bat to run this project
-## Build Setup
+## vue-cli:Build Setup
 
 ``` bash
 # install dependencies
